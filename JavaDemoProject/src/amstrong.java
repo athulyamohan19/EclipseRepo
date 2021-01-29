@@ -18,7 +18,7 @@ public class amstrong
 			System.out.println("Amstrong");
 		else
 			System.out.println("Not Amstrong");
-		
+		System.out.println("Testing");
 		
 	}
 		 
